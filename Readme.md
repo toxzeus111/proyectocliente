@@ -44,5 +44,5 @@ El objetivo del proyecto es generar una aplicación a través de la cual los usu
 
 ## Requisitos
 
-- **Python 3.8+**: Asegúrate de tener Python instalado.
+
 - **SQLite**: Utilizado como base de datos para almacenar la información de los estudiantes. 
