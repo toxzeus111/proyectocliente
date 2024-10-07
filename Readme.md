@@ -32,8 +32,7 @@ Este es un pequeño proyecto en Python que permite gestionar la información de 
 
 ## Objetivo
 
-El objetivo del proyecto es generar una aplicación a través de la cual los usuarios puedan gestionar la información de los alumnos. Está dirigido a estudiantes o profesores que requieran una forma sencilla de gestionar la información de los participantes en un curso.
-
+El objetivo del proyecto es generar una aplicación a través de la cual los usuarios puedan gestionar la información de los alumnos. en el cual se puede observar una arquitectura enfocada al cliente.
 ## Características
 
 - **Agregar Estudiante**: Añadir un nuevo estudiante a la base de datos.
