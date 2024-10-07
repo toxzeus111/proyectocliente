@@ -22,13 +22,13 @@ Este es un pequeño proyecto en Python que permite gestionar la información de 
 ## Tabla de Contenidos
 - [Objetivo](#objetivo)
 - [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Arquitectura](#arquitectura)
-- [Herramientas Utilizadas](#herramientas-utilizadas)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
+
+
+
+
+
+
 
 ## Objetivo
 
